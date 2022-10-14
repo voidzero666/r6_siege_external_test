@@ -11,8 +11,6 @@
 #define OFFSET_PROFILEMANAGER 0x7033EB0
 #define OFFSET_CAMERAMANAGER 0x60F0398
 
-
-
 class c_siege
 {
 public:
