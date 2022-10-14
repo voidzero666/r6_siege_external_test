@@ -5,4 +5,4 @@ Credits: void, [trail](https://github.com/trailyy), unknowncheats
 
 note: Offsets out of date for sure
 
-[!(https://media.discordapp.net/attachments/904820227827728404/950157765173706832/unknown.png)](https://media.discordapp.net/attachments/904820227827728404/950157765173706832/unknown.png)
+[!](https://media.discordapp.net/attachments/904820227827728404/950157765173706832/unknown.png)
